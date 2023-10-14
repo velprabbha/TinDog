@@ -7,4 +7,10 @@ TinDog is a website that connects dog lovers and offers a unique platform for fi
 - A chat feature to communicate with dog owners.
 - Location-based search for finding dogs in your area.
 
+## Technologies Used
+
+- HTML
+- CSS
+- [Bootstrap](https://getbootstrap.com/)
+
 [Visit TinDog](https://velprabbha.github.io/TinDog/)
